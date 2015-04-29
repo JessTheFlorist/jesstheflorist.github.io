@@ -1,0 +1,39 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:200);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(http://fonts.googleapis.com/css?family=Inconsolata);
+
+body {	
+	font-family: Source Sans Pro, Georgia, Utopia, Palatino, 'Palatino Linotype', serif;
+    font-size: 15px;
+    text-align: left;
+    background-color: #f7f6ee;
+    color: #030303;
+}
+
+a {
+    color: #00759d;
+	text-decoration: underline;
+     transition: color 0.3s ease;
+    -webkit-transision: color 0.3s ease;
+    -moz-transision: color 0.3s ease;
+}
+
+a:hover{
+	font-size: 1em;
+	color: #000000;
+     transition: color 0.3s ease;
+    -webkit-transision: color 0.3s ease;
+    -moz-transision: color 0.3s ease;
+}
+
+h1 {
+    font-family: Raleway, Georgia, Utopia, Palatino, 'Palatino Linotype', serif;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+h3 {
+    font-family: Inconsolata, Georgia, Utopia, Palatino, 'Palatino Linotype', serif;
+}
